@@ -1,0 +1,48 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Configuration files
+*.env
+config.yaml
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# Go build artifacts
+*.test
+*.test.json
+*.exe
+
+# Go workspace
+go.work
+go.work.sum
+
+# Local configuration files
+.local_config.yaml
+.local_env
+
